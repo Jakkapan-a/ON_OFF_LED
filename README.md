@@ -1,3 +1,7 @@
+<!-- Example Code Arduino -->
+## Example Code Arduino
+
+```c++ 
 
 const int led1 = 23;          // Rely 1
 const int led2 = 16;          // Alarm
@@ -64,3 +68,4 @@ void timer() {
 void loop() {
   timer();
 }
+```
